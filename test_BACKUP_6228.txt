@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+one not to edit 
+=======
+one edited	
+>>>>>>> b10fe3b68d7e5cb2265f0be3247db5c1239e3139
+two 
+three
+four
